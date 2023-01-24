@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Sevillea
+- 
 - 
 - Languages: 
 -   HTML
 -   CSS
--   JavaScript
--   
+-   Vanilla JavaScript
+-   JSON
+-   AJAX
 -   Frameworks:
 -     Bootstrap
 -     jQuery
