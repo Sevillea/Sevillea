@@ -1,11 +1,12 @@
 - 
-- 
 - Languages: 
+- 
 -   HTML
 -   CSS
 -   Vanilla JavaScript
 -   JSON
 -   AJAX
+-   
 -   Frameworks:
 -     Bootstrap
 -     jQuery
