@@ -1,11 +1,14 @@
 -   HTML
 -   CSS
--   Vanilla JavaScript
+-   JavaScript
+-   REACT
 -   JSON
 -   AJAX
 -   UX/UI
 -   Bootstrap
 -   jQuery 
+-   Node.js
+-   
 -     
 - 🌱 This space will grow with further info about projects and details as time moves foward. 
 - 
